@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+scikit-learn == 1.2.2
+streamlit_extras == 0.4.0
+openai
+langchain==0.1.11
+chromadb==0.4.22
+google-cloud-storage
+gcsfs
+st-files-connection
+gsutil
+pysqlite3-binary
+langchain-community==0.0.28
+langchain-openai==0.0.8

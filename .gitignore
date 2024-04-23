@@ -1,0 +1,9 @@
+raw_data
+commit.txt
+.python-version
+stored_text.txt
+notebooks
+.ipynb_checkpoints
+.env
+secrets.toml
+gcp files.zip

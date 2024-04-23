@@ -1,0 +1,15 @@
+README.md
+setup.py
+amerigo_py_files/__init__.py
+amerigo_py_files/amerigo_functions.py
+amerigo_py_files/unique_ingredients_module.py
+model/__init__.py
+model/api.py
+model/clusters.py
+model/main.py
+model/params.py
+model/recipe.py
+model.egg-info/PKG-INFO
+model.egg-info/SOURCES.txt
+model.egg-info/dependency_links.txt
+model.egg-info/top_level.txt

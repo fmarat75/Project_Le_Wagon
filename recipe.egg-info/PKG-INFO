@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: recipe
+Version: 0.0.0
+Summary: recipe
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: streamlit_extras==0.4.0
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: chromadb
+Requires-Dist: google-cloud-storage

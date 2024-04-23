@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+streamlit_extras==0.4.0
+openai
+langchain
+chromadb
+google-cloud-storage
