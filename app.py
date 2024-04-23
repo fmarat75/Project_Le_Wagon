@@ -12,7 +12,7 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 subprocess.run(['pip', 'install', '-e', '.'])
 
-st.set_page_config(initial_sidebar_state="collapsed")
+#st.set_page_config(initial_sidebar_state="collapsed")
 st.markdown(
     """
 <style>
