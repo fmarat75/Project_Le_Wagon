@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 from st_files_connection import FilesConnection
 conn = st.connection('gcs', type=FilesConnection)
-element_list_csv = conn.read("bucket-for-testing-madrid/element_list.csv", input_format="csv", ttl=600)
+element_list_csv = conn.read("recipe-lewagon-project/element_list.csv", input_format="csv", ttl=600)
 ############################ Previous Code #####################################
 
 def remove_punctuation_and_capitalize(word_list):
