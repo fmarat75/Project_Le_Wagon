@@ -12,7 +12,7 @@ import io
 from st_files_connection import FilesConnection
 
 conn = st.connection('gcs', type=FilesConnection)
-ten_embeddings_temp_array_nom = conn.read("bucket-for-testing-madrid/ten_embeddings_temp_array_nom.csv", input_format="csv", ttl=600).to_numpy()
+ten_embeddings_temp_array_nom = conn.read("recipe-lewagon-project/ten_embeddings_temp_array_nom.csv", input_format="csv", ttl=600).to_numpy()
 #################################################################################
 
 def load_model():
